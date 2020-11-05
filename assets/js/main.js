@@ -28,14 +28,13 @@ function topFunction() {
 let header = $(`
 <nav class="black">
 <div class="nav-wrapper">
-    <a href="#!" class="brand-logo"><img src="assets/images/John-Doe1.png"></a>
+    <a href="index.html" class="brand-logo"><img src="assets/images/text.png"></a>
     <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
             class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a class="white-text" href="index.html">Home</a></li>
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
-        <li><a class="white-text" href="research.html">Research</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
         <li><a class="white-text" href="index.html">Blog</a></li>
         <li><a class="white-text" href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
@@ -63,7 +62,6 @@ let header = $(`
 <li><a href="index.html">Home</a></li>
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
-<li><a href="research.html">Research</a></li>
 <li><a href="education.html">Education</a></li>
 <li><a href="index.html">Blog</a></li>
 <li><a href="https://docs.google.com/document/d/1-SX2Pz1rD9D1IS-r5PpCCb1JeihSM_BtnI5Y9uruQGc/edit?usp=sharing" target="_blank">My Resume</a></li>
@@ -93,8 +91,8 @@ let footer = $(`
     <div class="row">
       <div class="col-lg-7 col-md-6 pt-3" >
       <div class="col-sm-6 col-md-7">
-        <a class="webintern-footer-logo" href="#">
-          <center><img src="assets/images/John-Doe1.png"style="width: 220px;"/></center>
+      <a class="webintern-footer-logo" href="index.html">
+          <center><img src="assets/images/text.png"style="width: 260px;"/></center>
         </a>
         <div class="simple-text text-center dark padding-sm">
           <p >
@@ -106,26 +104,20 @@ let footer = $(`
     <!-- Social media icons for footer -->
 
 <div class="social-icons-footer">
-  <a class="social-icon-footer twitter" href="" target="_blank" rel="author">
-    <i class="fab fa-twitter"></i>
-      </a>
-  <a class="social-icon-footer dribbble" href="" target="_blank" rel="author">
-    <i class="fab fa-dribbble"></i>
-      </a>
-  <a class="social-icon-footer linkedin" href="" target="_blank" rel="author">
+  <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/mrutyunjay-dash-26b0108b/" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
       </a>
   <a class="social-icon-footer medium" href="" target="_blank" rel="author">
     <i class="fab fa-medium-m"></i>
       </a>
-  <a class="social-icon-footer kaggle" href="" target="_blank" rel="author">
-    <i class="fab fa-kaggle"></i>
+  <a class="social-icon-footer instagram" href="https://www.instagram.com/mrutyunjay_dash" target="_blank" rel="author">
+    <i class="fab fa-instagram"></i>
       </a>
-  <a class="social-icon-footer github" href="" target="_blank" rel="author">
+  <a class="social-icon-footer github" href="https://github.com/mrutyunjaydash" target="_blank" rel="author">
     <i class="fab fa-github"></i>
       </a>
   <br>
-<p style="color:white;><a href=" ">contact@johndoe.com</a></p>
+<p style="color:white;><a href="https://mrutyunjaydash.github.io/Portfolio/">contact@mrutyunjaydash</a></p>
 </div>
     </div>
 
