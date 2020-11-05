@@ -130,7 +130,7 @@ html[data-theme="dark"] {
 
 .social-icon.instagram:after {
   background-color: rgb(202, 0, 202);
-  box-shadow: var(--kaggle);
+  box-shadow: var(--instagram);
 }
 
 
