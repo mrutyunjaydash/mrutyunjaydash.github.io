@@ -107,7 +107,7 @@ let footer = $(`
   <a class="social-icon-footer linkedin" href="https://www.linkedin.com/in/mrutyunjay-dash-26b0108b/" target="_blank" rel="author">
     <i class="fab fa-linkedin-in"></i>
       </a>
-  <a class="social-icon-footer medium" href="" target="_blank" rel="author">
+  <a class="social-icon-footer medium" href="https://medium.com/@mdash555" target="_blank" rel="author">
     <i class="fab fa-medium-m"></i>
       </a>
   <a class="social-icon-footer instagram" href="https://www.instagram.com/mrutyunjay_dash" target="_blank" rel="author">
