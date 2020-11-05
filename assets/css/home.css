@@ -117,10 +117,6 @@ html[data-theme="dark"] {
   transition: var(--trans-props);
 }
 
-.social-icon.twitter:after {
-  background-color: #1da1f2;
-  box-shadow: var(--twitter);
-}
 
 .social-icon.github:after {
   background-color: #24292e;
@@ -132,15 +128,11 @@ html[data-theme="dark"] {
   box-shadow: var(--linkedin);
 }
 
-.social-icon.kaggle:after {
-  background-color: #41aff3;
+.social-icon.instagram:after {
+  background-color: rgb(202, 0, 202);
   box-shadow: var(--kaggle);
 }
 
-.social-icon.dribbble:after {
-  background-color: #ea4c89;
-  box-shadow: var(--kaggle);
-}
 
 .social-icon.medium:after {
   background-color: #00ab6c;
