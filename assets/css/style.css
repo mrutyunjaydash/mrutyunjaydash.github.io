@@ -504,7 +504,7 @@ html.transition *:after {
   overflow: hidden;
   width: var(--link-size-footer-s);
   height: var(--link-size-footer-s);
-  margin: 3px;
+  margin: 14px;
   background-color: #26a69a;
   border-radius: 50%;
   text-decoration: none;
