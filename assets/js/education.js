@@ -134,31 +134,22 @@ document.addEventListener("DOMContentLoaded", showCards1);
 const timeline = document.querySelector(".timeline");
 const timelinesection = [
   {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    heading: "International Institute of Information Technology",
+    image: "./assets/images/education-page/iiitbbsrlogo.png",
+    subheading:"B.Tech, Computer Science & Engineering",
+    description:"Year: 2018-Present</br>CGPA: 8.67",
   },
-
   {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    heading: "DAV Public School,MCL,Jagannath Area",
+    image: "./assets/images/education-page/davderalogo.jpg",
+    subheading:"CBSE, XII (Senior Secondary)",
+    description:"Year of Completion: 2018</br>Percentage: 95.6%",
   },
-
   {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
-  },
-
-  {
-    heading: "Massachusetts Institute of Technology",
-    image: "./assets/images/education-page/timeline-1.svg",
-    subheading:"Bachelors of Science, Computer Science & Engineering, (2020-2024)",
-    description: "<li>Top 1% in the department</li><li>Best undergraduate Reseracher</li><li>Betsy Schumacker Woman</li><li>Athlete of the Year Award</li>",
+    heading: "DAV Public School,MCL,Jagannath Area",
+    image: "./assets/images/education-page/davderalogo.jpg",
+    subheading:"CBSE, X (Secondary)",
+    description:"Year of Completion: 2016</br>CGPA: 10",
   },
 ];
 
@@ -179,10 +170,10 @@ const showCards2 = () => {
             <span style="opacity: 0.9; font-size: 15px;">
               ${subheading}
             </span>
-            <h6 class="text-muted mt-2" style="font-size: small;">Activities:</h6>
-            <ol style="margin-top: -8px; margin-left: -10px; font-size: 12px; list-style: disc;">
+            <br/>
+            <span style="opacity: 0.9; font-size: 15px;">
               ${description}
-            </ol>
+            </span>
           </div>
         </div>
       </div>
