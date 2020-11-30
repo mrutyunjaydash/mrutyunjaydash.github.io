@@ -15,6 +15,11 @@ const moocscards = [
     moocLink: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG",
   },
   {
+    title: "Python3",
+    cardImage: "assets/images/education-page/sololearn.jpg",
+    moocLink: "https://www.sololearn.com/play/python",
+  },
+  {
     title: "Firebase Firestore Tutorial",
     cardImage: "assets/images/education-page/youtube.png",
     moocLink: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB",
