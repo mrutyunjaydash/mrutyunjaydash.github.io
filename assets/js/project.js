@@ -3,100 +3,20 @@
 const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
-    title: "Quiz App",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description:
-      "A quiz app built using basic react.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Chess Engine",
-    cardImage: "assets/images/project-page/chess.jpg",
-    description:
-      "A chess engine for a popular game dev engine.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Flappy Bird",
-    cardImage: "assets/images/project-page/flappybird.png",
-    description:
-      "Flappy bird game built using React.js",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Exercise Tracker",
-    cardImage: "assets/images/project-page/exercise.jpg",
-    description:
-      "Exercise tracker built using basic redux.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Recipe Ingredient Parser",
-    cardImage: "assets/images/project-page/recipe.jpg",
-    description:
-      "Recipe Ingredient Parser built using JavaScript.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Poker Game",
-    cardImage: "assets/images/project-page/poker.jpg",
-    description:
-      "Poker game built using typescript.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
     title: "Tic Tac Toe Game",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
     description:
-      "Tested a React Tic Tac Toe Game using Jest and React Testing Library.",
-    Previewlink: "",
-    Githublink: "",
+      "Minimalistic Tic Tac Toe game built with React. AI is driven by a minimax algorithm.",
+    Previewlink: "https://github.com/mrutyunjaydash/tic-tac-toe.git",
+    Githublink: "https://github.com/mrutyunjaydash/tic-tac-toe.git",
   },
   {
-    title: "Personal Book Library",
-    cardImage: "assets/images/project-page/book.png",
+    title: "Huffman Compression Algorithm",
+    cardImage: "assets/images/project-page/huffmann.jpg",
     description:
-      "Personal book library app built using JavaScript.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Minesweeper Game",
-    cardImage: "assets/images/project-page/minesweeper.jpg",
-    description:
-      "Minesweeper Game built using python Object Oriented Programming.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Battery Life Calculator",
-    cardImage: "assets/images/project-page/battery.png",
-    description:
-      "Built battery life calculator using Python.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Movie Recommendation System",
-    cardImage: "assets/images/project-page/movie-recommendation.jpeg",
-    description:
-      "Movie Recommendation System built using Tensorflow.",
-    Previewlink: "",
-    Githublink: "",
-  },
-  {
-    title: "Music Recommendation Engine",
-    cardImage: "assets/images/project-page/music.jpg",
-    description:
-      "Music Recommendation Engine built using Python.",
-    Previewlink: "",
-    Githublink: "",
+      "A Compression Algorithm written in C++",
+    Previewlink: "https://github.com/mrutyunjaydash/Huffman-Compression-Algo.git",
+    Githublink: "https://github.com/mrutyunjaydash/Huffman-Compression-Algo.git",
   },
 ];
 
