@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Colour Guessing Game",
-    cardImage: "assets/images/project-page/colourgame.JPG",
+    cardImage: "assets/images/project-page/colourgame.jpg",
     description:
       "A simple Colour Guessing Game where you have to guess the colour based on the RGB(x, y, z) generated.",
     Previewlink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
