@@ -24,6 +24,11 @@ const moocscards = [
     cardImage: "assets/images/education-page/youtube.png",
     moocLink: "https://www.youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB",
   },
+  {
+    title: "PHP",
+    cardImage: "assets/images/education-page/progate.jpg",
+    moocLink: "https://progate.com/languages/php",
+  },
 
 ];
 
