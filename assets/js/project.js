@@ -11,20 +11,20 @@ const projects = [
     Githublink: "https://github.com/mrutyunjaydash/tic-tac-toe.git",
   },
   {
-    title: "Colour Guessing Game",
-    cardImage: "assets/images/project-page/colourgame.jpg",
-    description:
-      "A simple Colour Guessing Game where you have to guess the colour based on the RGB(x, y, z) generated.",
-    Previewlink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
-    Githublink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
-  },
-  {
     title: "Huffman Compression Algorithm",
     cardImage: "assets/images/project-page/huffmann.jpg",
     description:
       "A Compression Algorithm written in C++",
     Previewlink: "https://github.com/mrutyunjaydash/Huffman-Compression-Algo.git",
     Githublink: "https://github.com/mrutyunjaydash/Huffman-Compression-Algo.git",
+  },
+  {
+    title: "Colour Guessing Game",
+    cardImage: "assets/images/project-page/colourgame.jpg",
+    description:
+      "A simple Colour Guessing Game where you have to guess the colour based on the RGB(x, y, z) generated.",
+    Previewlink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
+    Githublink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
   },
 ];
 
