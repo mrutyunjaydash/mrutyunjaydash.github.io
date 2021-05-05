@@ -62,7 +62,7 @@ let header = $(`
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="https://drive.google.com/file/d/1f4fxpnFtiRUtsrCTSIo6D6WjdQgGBZx0/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1uNcUJ8Thm0bIgxDxz6LPrDmOWP3htnMc/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
