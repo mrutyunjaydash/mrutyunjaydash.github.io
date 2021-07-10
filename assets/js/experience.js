@@ -7,7 +7,7 @@ const exp = [
     title: "Frontend Developer Intern",
     cardImage: "assets/images/experience-page/marketgad.png",
     place: "MarketGad",
-    time: "(July, 2020 - October, 2020)",
+    time: "(July, 2020 - September, 2020)",
     desp: "<li>Worked in making the Frontend UI of the website</li><li>Used React for making context hooks and linking APIs</li><li>Connected different routes and added many features to their website</li>",
   },
 ];
