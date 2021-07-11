@@ -3,6 +3,14 @@
 const projectcards = document.querySelector(".projectcards");
 const projects = [
   {
+    title: "MERN App",
+    cardImage: "assets/images/project-page/MERN.jpg",
+    description:
+      "A Basic MERN App dveloped which shows the details of the user logged in and handles multiple users flawlessly",
+    Previewlink: "https://github.com/mrutyunjaydash/MERNProject.git",
+    Githublink: "https://github.com/mrutyunjaydash/MERNProject.git",
+  },
+  {
     title: "Tic Tac Toe Game",
     cardImage: "assets/images/project-page/tic-tac-toe.png",
     description:
@@ -20,7 +28,7 @@ const projects = [
   },
   {
     title: "Colour Guessing Game",
-    cardImage: "assets/images/project-page/colourgame.jpg",
+    cardImage: "assets/images/project-page/colourgame.png",
     description:
       "A simple Colour Guessing Game where you have to guess the colour based on the RGB(x, y, z) generated.",
     Previewlink: "https://github.com/mrutyunjaydash/Color-Guessing-Game.git",
