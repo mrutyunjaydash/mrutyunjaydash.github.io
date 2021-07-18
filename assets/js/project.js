@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "Tic Tac Toe Game",
-    cardImage: "assets/images/project-page/tic-tac-toe.png",
+    cardImage: "assets/images/project-page/tictactoe.png",
     description:
       "Minimalistic Tic Tac Toe game built with React. AI is driven by a minimax algorithm.",
     Previewlink: "https://github.com/mrutyunjaydash/tic-tac-toe.git",
