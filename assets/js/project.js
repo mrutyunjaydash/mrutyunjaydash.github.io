@@ -27,6 +27,14 @@ const projects = [
     Githublink: "https://github.com/mrutyunjaydash/tic-tac-toe.git",
   },
   {
+    title: "Todo List",
+    cardImage: "assets/images/project-page/todo.png",
+    description:
+      "A simple TODO list made with HTML,CSS and JavaScript",
+    Previewlink: "https://github.com/mrutyunjaydash/Todo-List.git",
+    Githublink: "https://github.com/mrutyunjaydash/Todo-List.git",
+  },
+  {
     title: "Huffman Compression Algorithm",
     cardImage: "assets/images/project-page/huffmann.jpg",
     description:
