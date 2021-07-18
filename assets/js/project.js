@@ -7,8 +7,16 @@ const projects = [
     cardImage: "assets/images/project-page/MERN.jpg",
     description:
       "A Basic MERN App dveloped which shows the details of the user logged in and handles multiple users flawlessly",
-    Previewlink: "https://github.com/mrutyunjaydash/MERNProject.git",
+    Previewlink: "https://mern-app-mrutyunjay.herokuapp.com/",
     Githublink: "https://github.com/mrutyunjaydash/MERNProject.git",
+  },
+  {
+    title: "Fire Chat",
+    cardImage: "assets/images/project-page/firechat.png",
+    description:
+      "A Chat web app where a user can login using his Google Account and start chatting in the world chat!",
+    Previewlink: "https://react-chat-app-f07fb.web.app/",
+    Githublink: "https://github.com/mrutyunjaydash/FireChat.git",
   },
   {
     title: "Tic Tac Toe Game",
