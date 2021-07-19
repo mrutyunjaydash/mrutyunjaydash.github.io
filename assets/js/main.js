@@ -115,7 +115,8 @@ let footer = $(`
     <i class="fab fa-github"></i>
       </a>
   <br>
-<p style="color:white;><a href="https://mrutyunjaydash.github.io/Portfolio/">contact@mrutyunjaydash</a></p>
+<p class="text-center" style="color:white;"><i class="far fa-envelope" style="margin-right:10px;"></i>mdash555@gmail.com</p>
+<p class="text-center" style="color:white;"><i class="fas fa-mobile-alt" style="margin-right:10px;"></i>+91-8763150574</p>
 </div>
     </div>
 
