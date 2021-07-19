@@ -36,7 +36,7 @@ let header = $(`
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1k_kKsH9ZlSfT-dv1PQlVA4bQI52zD-Kz/view?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1QTD5XHNNV40Frn1Yg5w_1JWHs4CUXD_r/view?usp=sharing" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -62,7 +62,7 @@ let header = $(`
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="https://drive.google.com/file/d/1k_kKsH9ZlSfT-dv1PQlVA4bQI52zD-Kz/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1QTD5XHNNV40Frn1Yg5w_1JWHs4CUXD_r/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
