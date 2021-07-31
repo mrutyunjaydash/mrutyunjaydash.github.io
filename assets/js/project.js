@@ -19,6 +19,14 @@ const projects = [
     Githublink: "https://github.com/mrutyunjaydash/FireChat.git",
   },
   {
+    title: "Video Chat",
+    cardImage: "assets/images/project-page/videochat.png",
+    description:
+      "A Video Chat App which generates a Unique Code everytime,also has a realtime chat feature.",
+    Previewlink: "https://mrutyunjaydash.github.io/video-chat",
+    Githublink: "https://github.com/mrutyunjaydash/video-chat.git",
+  },
+  {
     title: "Tic Tac Toe Game",
     cardImage: "assets/images/project-page/tictactoe.png",
     description:
