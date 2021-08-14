@@ -67,7 +67,7 @@ const timelinesection = [
     heading: "International Institute of Information Technology",
     image: "./assets/images/education-page/iiitbbsrlogo.png",
     subheading:"B.Tech, Computer Science & Engineering",
-    description:"Year: 2018-Present</br>CGPA: 8.64",
+    description:"Year: 2018-Present</br>CGPA: 8.62",
   },
   {
     heading: "DAV Public School,MCL,Jagannath Area",
