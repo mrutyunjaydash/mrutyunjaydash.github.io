@@ -4,11 +4,18 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Community Influencer",
+    cardImage: "assets/images/experience-page/mentorboxx.png",
+    place: "MentorBoxx",
+    time: "(July, 2021 - August, 2021)",
+    desp: "<li>Created, curated and managed published content for feed and stories across social media channels</li><li>Produced relevant product content to reach target customers.</li><li>Learned about the services inside and out to give best possible explanantions and answer consumer questions.</li>",
+  },
+  {
     title: "Frontend Developer Intern",
     cardImage: "assets/images/experience-page/marketgad.jfif",
     place: "MarketGad",
     time: "(July, 2020 - September, 2020)",
-    desp: "<li>Worked in making the Frontend UI of the website</li><li>Used React for making context hooks and linking APIs</li><li>Connected different routes and added many features to their website</li>",
+    desp: "<li>Worked in making the Frontend UI of the website</li><li>Used React for making context hooks and linking APIs</li><li>Conceived and built optimized web pages in ReactJS , including Bootstrap integration and cross-browser compatibility, to support marketing .</li><li>Collaborated with the team during the entire period which enhanced my interpersonal skills.</li>",
   },
 ];
 
