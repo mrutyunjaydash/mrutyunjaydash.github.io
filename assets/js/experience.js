@@ -4,6 +4,13 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "SDE Intern",
+    cardImage: "assets/images/experience-page/aakash.png",
+    place: "Aakash BYJUs",
+    time: "(January, 2022 - Present)",
+    desp: "<li>Joined as an SDE Intern in the Technology Innovation Lab Team",
+  },
+  {
     title: "Community Influencer",
     cardImage: "assets/images/experience-page/mentorboxx.png",
     place: "MentorBoxx",
