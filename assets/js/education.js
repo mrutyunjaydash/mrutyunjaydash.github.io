@@ -67,7 +67,7 @@ const timelinesection = [
     heading: "International Institute of Information Technology",
     image: "./assets/images/education-page/iiitbbsrlogo.png",
     subheading:"B.Tech, Computer Science & Engineering",
-    description:"Year: 2018-Present</br>CGPA: 8.52",
+    description:"Year: 2018 - 2022</br>CGPA: 8.49/10",
   },
   {
     heading: "DAV Public School,MCL,Jagannath Area",
@@ -79,7 +79,7 @@ const timelinesection = [
     heading: "DAV Public School,MCL,Jagannath Area",
     image: "./assets/images/education-page/davderalogo.jpg",
     subheading:"CBSE, X (Secondary)",
-    description:"Year of Completion: 2016</br>CGPA: 10",
+    description:"Year of Completion: 2016</br>CGPA: 10/10",
   },
 ];
 

@@ -7,8 +7,8 @@ const exp = [
     title: "SDE Intern",
     cardImage: "assets/images/experience-page/aakash.png",
     place: "Aakash BYJUs",
-    time: "(January, 2022 - Present)",
-    desp: "<li>Joined as an SDE Intern in the Technology Innovation Lab Team,working in the Backend Team for the new ERP Project using JAVA SpringBoot.</li><li>Implemented AuditAware functionality,resulting in improvement of performance</li><li>Implemented JUnit Testing in the services which automated the process of testing services,resulting in saving 3x more time</li>",
+    time: "(January, 2022 - July, 2022)",
+    desp: "<li>Joined as an SDE Intern in the Technology Innovation Lab Team,working in the Backend Team for the new ERP Project using JAVA SpringBoot.</li><li>Implemented Audit Aware, which helped in keeping track of changes and made resolving issues more convenient.</li><li>Implemented JUnit Testing in the services which automated the process of testing services,resulting in saving 3x more time</li>",
   },
   {
     title: "Community Influencer",

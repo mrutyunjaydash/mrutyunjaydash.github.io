@@ -36,7 +36,7 @@ let header = $(`
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1ka6537PoEhrkpkTaFvdRB-IzpcHM_BwW/view?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1_rtyUQ1grfEpgWZnOUebYyXP0xRsKxD7/view?usp=sharing" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -62,7 +62,7 @@ let header = $(`
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="https://drive.google.com/file/d/1ka6537PoEhrkpkTaFvdRB-IzpcHM_BwW/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1_rtyUQ1grfEpgWZnOUebYyXP0xRsKxD7/view?usp=sharing" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
@@ -115,7 +115,7 @@ let footer = $(`
     <i class="fab fa-github"></i>
       </a>
   <br>
-<p class="text-center" style="color:white;"><i class="far fa-envelope" style="margin-right:10px;"></i>mdash555@gmail.com</p>
+<p class="text-center" style="color:white;"><i class="far fa-envelope" style="margin-right:10px;"></i>mdash99999@gmail.com</p>
 <p class="text-center" style="color:white;"><i class="fas fa-mobile-alt" style="margin-right:10px;"></i>+91-8763150574</p>
 </div>
     </div>
