@@ -36,7 +36,7 @@ let header = $(`
         <li><a class="white-text" href="experience.html">Experience</a></li>
         <li><a class="white-text" href="projects.html">Projects</a></li>
         <li><a class="white-text" href="education.html">Education</a></li>
-        <li><a class="white-text" href="https://drive.google.com/file/d/1UOhgLUn9MC-s8AzNLqR0eOHMiLo1tbDN/view?usp=sharing" target="_blank">My Resume</a></li>
+        <li><a class="white-text" href="https://drive.google.com/file/d/1PCh0jbF0Ste8tV6F-1J4zOdvtvtfHy6R/view?usp=drive_link" target="_blank">My Resume</a></li>
         <!--TOGGLE FOR LIGHT/DARK MODE-->
         <li>
         <label for="switch" class="theme-switch">
@@ -62,7 +62,7 @@ let header = $(`
 <li><a href="experience.html">Experience</a></li>
 <li><a href="projects.html">Projects</a></li>
 <li><a href="education.html">Education</a></li>
-<li><a href="https://drive.google.com/file/d/1UOhgLUn9MC-s8AzNLqR0eOHMiLo1tbDN/view?usp=sharing" target="_blank">My Resume</a></li>
+<li><a href="https://drive.google.com/file/d/1PCh0jbF0Ste8tV6F-1J4zOdvtvtfHy6R/view?usp=drive_link" target="_blank">My Resume</a></li>
 
 
 <!--TOGGLE FOR LIGHT/DARK MODE-->
@@ -112,7 +112,7 @@ let footer = $(`
     <i class="fab fa-instagram"></i>
       </a>
   <a class="social-icon-footer github" href="https://github.com/mrutyunjaydash" target="_blank" rel="author">
-    <i class="fab fa-github"></i>
+    <i class="fa-brands fa-github"></i>
       </a>
   <br>
 <p class="text-center" style="color:white;"><i class="far fa-envelope" style="margin-right:10px;"></i>mdash99999@gmail.com</p>

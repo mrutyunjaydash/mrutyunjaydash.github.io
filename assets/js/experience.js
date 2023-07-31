@@ -4,11 +4,17 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/aakash.png",
+    place: "Aakash BYJUs",
+    time: "(July, 2022 - Present)",
+    desp: "<li>Hands on experience building and maintaining REST microservices in a project based on Microservice architecture.</li><li>Delivered scalable design architecture and automated Notification services like Email and SMS services using CRON.</li><li>Created and curated CRUD APIs, handled complicated search queries using specifications, fixed bugs and delivered before deadlines.</li>"},
+  {
     title: "SDE Intern",
     cardImage: "assets/images/experience-page/aakash.png",
     place: "Aakash BYJUs",
     time: "(January, 2022 - July, 2022)",
-    desp: "<li>Joined as an SDE Intern in the Technology Innovation Lab Team,working in the Backend Team for the new ERP Project using JAVA SpringBoot.</li><li>Implemented Audit Aware, which helped in keeping track of changes and made resolving issues more convenient.</li><li>Implemented JUnit Testing in the services which automated the process of testing services,resulting in saving 3x more time</li>",
+    desp: "<li>An Integral part of the Technology Innovation Lab, working on a project which is based on Microservice Architecture</li><li>Implemented Audit Aware, which helped in keeping track of changes and made resolving issues more convenient.</li><li>Implemented JUnit Testing in the services which automated the process of testing services,resulting in saving 3x more time</li>",
   },
   {
     title: "Community Influencer",
