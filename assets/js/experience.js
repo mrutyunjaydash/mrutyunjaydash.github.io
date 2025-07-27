@@ -4,14 +4,29 @@
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Engineer",
-    cardImage: "assets/images/experience-page/aakash.png",
+    title: "Software Engineer 2",
+    cardImage: "assets/images/experience-page/goto-image.png",
+    place: "GoTo Group",
+    time: "(November, 2024 - Present)",
+    desp: "<li>Part of GoPay Online Tokenization team handling 2.5M daily linking requests and 8M+ transactions across regions.</li><li>Led migration of microservices and workers from GCP/AWS to AliCloud, 99.99% uptime.</li><li>Built a mini GoPay app from scratch using Java, gRPC, PostgreSQL, Redis, Kafka, and Basic Auth covering account, wallet, and transaction flows.</li>"
+  },
+  {
+    title: "Senior Software Engineer",
+    cardImage: "assets/images/experience-page/aakash.jpg",
     place: "Aakash BYJUs",
-    time: "(July, 2022 - Present)",
-    desp: "<li>Hands on experience building and maintaining REST microservices in a project based on Microservice architecture.</li><li>Delivered scalable design architecture and automated Notification services like Email and SMS services using CRON.</li><li>Created and curated CRUD APIs, handled complicated search queries using specifications, fixed bugs and delivered before deadlines.</li>"},
+    time: "(April, 2024 - November, 2024)",
+    desp: "<li>Led development of core Finance and Operations modules, delivering scalable, high-performance microservices aligned with business-critical workflows.</li><li>Optimized SQL queries and indexing strategies to improve data retrieval speed by 40% across large transactional datasets.</li><li>Implemented Kafka-based streaming pipelines and integrated Jenkins for CI/CD automation, achieving 99.9% system uptime and reliable deployments.</li>"
+  },
+  {
+    title: "Software Engineer",
+    cardImage: "assets/images/experience-page/aakash.jpg",
+    place: "Aakash BYJUs",
+    time: "(July, 2022 - April, 2024)",
+    desp: "<li>Hands on experience building and maintaining REST microservices in a project based on Microservice architecture.</li><li>Delivered scalable design architecture and automated Notification services like Email and SMS services using CRON.</li><li>Created and curated CRUD APIs, handled complicated search queries using specifications, fixed bugs and delivered before deadlines.</li>"
+  },
   {
     title: "SDE Intern",
-    cardImage: "assets/images/experience-page/aakash.png",
+    cardImage: "assets/images/experience-page/aakash.jpg",
     place: "Aakash BYJUs",
     time: "(January, 2022 - July, 2022)",
     desp: "<li>An Integral part of the Technology Innovation Lab, working on a project which is based on Microservice Architecture</li><li>Implemented Audit Aware, which helped in keeping track of changes and made resolving issues more convenient.</li><li>Implemented JUnit Testing in the services which automated the process of testing services,resulting in saving 3x more time</li>",
